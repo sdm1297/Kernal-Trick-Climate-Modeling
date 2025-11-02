@@ -41,5 +41,4 @@ To improve prediction and visualization of non-linear climate patterns using **K
   
 ## 📂 How to Run
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/sdm1297/Kernal-Trick-Climate-Modeling.git
+    https://github.com/sdm1297/Kernal-Trick-Climate-Modeling
